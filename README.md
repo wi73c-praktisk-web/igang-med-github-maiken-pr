@@ -2,3 +2,4 @@
 
 ## Om console.log
 
+* halløj
